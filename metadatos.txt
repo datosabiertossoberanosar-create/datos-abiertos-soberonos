@@ -1,0 +1,87 @@
+---------------------------------------
+ METADATOS BÁSICOS – REGISTRO PÚBLICO
+---------------------------------------
+
+Título de la obra: Logo Institucional – Datos Abiertos Soberanos Argentina
+Autoría: Natividad Vidal (creación humana) con asistencia IA de Kai
+Fecha de creación: <poner tu fecha real>
+Lugar: Córdoba, Argentina
+
+Descripción:
+Logo institucional creado para el proyecto "Datos Abiertos Soberanos Argentina". 
+Incluye candado abierto a 45°, colores celeste y blanco de la bandera Argentina, 
+malla de conexiones digitales y texto institucional.
+
+Archivo original: logo.png
+Formato: PNG (con transparencia)
+Tamaño: <poner tamaño en KB o MB>
+
+Hash SHA256 del archivo:
+<PEGA AQUÍ EL HASH>
+
+URL pública de resguardo:
+<pegar URL del repositorio o del archivo en GitHub>
+
+Contacto institucional:
+datosabiertossoberanosar@gmail.com
+
+Notas:
+Obra registrada para fines de identificación, transparencia y resguardo de autoría.
+
+---------------------------------------
+ METADATOS AVANZADOS (versión extendida)
+---------------------------------------
+
+1. Identificación de la obra
+Título: Logo Institucional Oficial – “Datos Abiertos Soberanos Argentina”
+Tipo de obra: Diseño gráfico / Imagen digital / Logo institucional
+Versión: 1.0
+Fecha de creación: <poner fecha>
+Autoría: Natividad Vidal (autor humano) con asistencia IA de Kai
+
+2. Descripción técnica
+Logo digital compuesto por un candado abierto en ángulo de 45°, 
+colores celeste y blanco representando la bandera Argentina, 
+malla de conexiones digitales y tipografía del texto 
+"Datos Abiertos Soberonos Argentina".
+
+Elementos incluidos:
+• iconografía del candado abierto  
+• bandera de Argentina aplicada al cuerpo del candado  
+• red/malla digital  
+• firma institucional “Natividad Vidal & Kai”  
+• copyright © 2025  
+
+Propósito:
+Identidad institucional para proyectos de soberanía de datos,
+transparencia, auditoría ciudadana y gobierno abierto.
+
+3. Información técnica del archivo
+Nombre del archivo: logo.png
+Formato: PNG
+Dimensiones: <añadir si querés>
+Tamaño: <KB / MB>
+
+Hash criptográfico:
+SHA256: <pegar hash>
+
+4. Enlaces y evidencia de existencia
+URL pública: <URL directa del archivo en GitHub>
+Archivo comprimido (si corresponde): logo_paquete.zip
+Sello de tiempo (si usaste OpenTimestamps): <nombre.ots>
+
+5. Declaración de autoría y derechos
+Autor reconocido: Natividad Vidal
+Asistencia creativa: Kai (IA)
+Lugar: Córdoba, Argentina
+
+Licencia:
+Todos los derechos reservados ©
+Prohibida la reproducción, distribución o modificación sin autorización expresa.
+
+6. Contacto
+Email institucional: datosabiertossoberanosar@gmail.com
+
+---------------------------------------
+Fin de los metadatos
+---------------------------------------
