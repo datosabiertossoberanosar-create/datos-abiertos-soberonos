@@ -1,0 +1,20 @@
+Archivo: foto perfil derechos autoria.jpg
+Algoritmo: SHA-256
+Hash: 28b2dab77ede206f1e32227869b8f278d9ac237f41060c13eb13b15a31812630
+Fecha: 2025-11-15
+Autor: Datos Abiertos Soberanos AR
+descripción
+
+
+
+
+Licencia
+
+: Todos los derechos reservados © 2025 Natividad Vidal + Kai (asistencia IA) – Datos Abiertos Soberanos AR.
+Uso permitido
+
+: Puede ser consultado, citado y compartido para fines educativos,periodísticos, de transparencia o auditoría ciudadana. Debe mantenerse íntegro (sin modificaciones) salvo permiso explícito. Prohibida su utilización con fines comerciales, partidarios o para manipulación informativa.
+Contexto: Este archivo forma parte de la Bitácora Pública de Transparencia Argentina,proyecto “Datos Abiertos Soberanos AR”. Su objetivo es documentar hechos, análisis, diseños, publicaciones e infografías relacionadas con la transparencia institucional, acceso a la información pública, auditoría ciudadana y soberanía de datos en Argentina. 
+Creado para registro público y cronológico de hechos relevantes vinculados 
+a opacidad estatal, acceso a la información o ejercicio de auditoría ciudadana.
+Imagen: Generado como material visual para acompañar investigaciones y comunicación pública.
