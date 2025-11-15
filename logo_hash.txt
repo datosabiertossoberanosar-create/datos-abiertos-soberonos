@@ -1,5 +1,0 @@
-Archivo: metadatos.txt
-Algoritmo: SHA-256
-Hash: b2fae1c631edb508c9deaba3f9cb7762110c588d4837e80a9bc3adf9d4f08f45
-Fecha: 2025-11-14
-Autor: Datos Abiertos Soberanos AR
